@@ -15,6 +15,8 @@ A comprehensive data analysis project examining **Malaysian immigration patterns
 | **📗 Excel** | Data cleaning, transformation, and initial exploration |
 | **📊 Power BI** | Interactive dashboard creation, DAX calculations, and visualization |
 
+---
+
 ## 📂 Data Workflow
 
 ### 🔧 Step 1: Excel Data Cleaning
@@ -32,7 +34,7 @@ A comprehensive data analysis project examining **Malaysian immigration patterns
 - ✅ Designed interactive visuals, KPI Cards and slicers
 - ✅ Published interactive dashboard
 
-
+---
 
 ## 📑 Dashboard Layout
 
@@ -43,7 +45,7 @@ A comprehensive data analysis project examining **Malaysian immigration patterns
 | **🚪 State of entry** | Geographic distribution: Breakdown of arrivals by Malaysian states and primary entry points |
 | **📋 Type of gender by state of entries** | Gender & Profile: Analysis of male vs. female arrivals categorized by their specific state of entry |
 
-
+---
 
 # 📈Foreigner Arrival Trends (2020-2024)
 
@@ -94,6 +96,7 @@ The following countries represent the primary drivers of international arrivals.
 * **ASEAN Strength:** Four out of the top five countries (Singapore, Indonesia, Thailand, and Brunei) are ASEAN members. This highlights the critical importance of regional intra-travel and land-border connectivity.
 * **China’s Positioning:** Despite being 4th, China remains the only non-neighboring country in the top 5, indicating its massive influence as a long-haul/medium-haul tourism powerhouse for the region.
 
+---
 
 ## 🚪 State of Entry: Geographic & Gender Distribution
 
@@ -114,6 +117,7 @@ This section breaks down the primary entry points into Malaysia, categorized by 
 * **Selangor (The Aviation Hub):** As the home of KLIA and KLIA2, Selangor represents the primary "Air Entry" point. The higher male-to-female ratio (**1.32:1**) often correlates with international business travel trends typical of major aviation hubs.
 * **Sarawak (The East Malaysian Corridor):** While 3rd in volume, Sarawak shows the most balanced gender distribution (**1.20:1**), reflecting strong cross-border social and trade ties with Brunei and Kalimantan, Indonesia.
 
+---
 
 ## 📋 Gender Profile: Global State Distribution
 
@@ -133,6 +137,7 @@ This section provides a high-level overview of the gender demographics for all i
    * **Business & Labor Migration:** Historically higher male volumes in the construction and manufacturing sectors.
    * **Regional Commuting:** Daily cross-border workers in the Singapore-Johor corridor.
 
+---
 
 # Dashboard Overview
 - <a href="https://github.com/Donovandonz/Power-BI--Malaysian-immigration-analysis/blob/main/Malaysian-Immigration-Dashboard.png">Malaysian-IMMI-Dashboard
